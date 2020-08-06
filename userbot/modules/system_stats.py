@@ -206,7 +206,7 @@ async def amireallyalive(alive):
     img = IMG
     caption = (
         "`"
-        "I'm alive, at your services....\n"
+        "I'm alive, Ur Gey....\n"
         f"-------------------------------\n"
         f"👤 User             : {DEFAULTUSER}\n\n"
         f"🐍 Python           : {python_version()}\n\n"
